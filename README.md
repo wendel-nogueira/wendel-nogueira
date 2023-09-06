@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wendel-nogueira/wendel-nogueira/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/wendel-nogueira/wendel-nogueira/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
